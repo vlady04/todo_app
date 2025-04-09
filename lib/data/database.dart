@@ -12,8 +12,8 @@ class ToDoDataBase{
   void createInitialdata(){
      //List<List<dynamic>> 
      toDoList = [
-      ["Pet Stella", false],
-      ["Pet ofelia", false],
+      ["alimentar a Stella", false],
+      ["no dejar que ofelia te coma", false],
     ];
   }
 
